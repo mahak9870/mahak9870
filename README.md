@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Prashant Rajput 👋
 
 # 💫 About Me:
 🌱 I’m currently learning python full stack, like python, Django,  sql, mongoDB, react, html, javascript, etc.<br>💬 I'm Full Stack Developer, a professional skilled in both frontend and backend development, handling everything from databases to server configuration to user interfaces<br>⚡ I love crocheting and recently completed a large blanket, and I'm playing cricket.<br>
